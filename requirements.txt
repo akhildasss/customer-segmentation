@@ -1,1 +1,6 @@
-
+pandas
+steamlit
+numpy
+scikit_learn
+matplotlib
+seaborn
